@@ -8,7 +8,7 @@ from datetime import datetime, timedelta
 import time
 
 # Configure your Gemini API key (replace with your actual API key)
-genai.configure(api_key="AIzaSyASXv2rN1IEkpBCVwAxBH7n-JPOtuhTkDc")
+genai.configure(api_key="API KEY")
 
 try:
     model = genai.GenerativeModel('gemini-2.0-flash')
