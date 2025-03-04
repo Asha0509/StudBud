@@ -24,5 +24,5 @@ This project provides a **smart study planner** that tailors schedules based on 
 
 1. **Clone the Repository**  
    ```sh
-   git clone <repo-url>
+   git clone <https://github.com/Asha0509/StudBud>
    cd study-planner
